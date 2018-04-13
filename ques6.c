@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<iostream.h>
-void fcfs
+void fcfs();
 void main()
 {
 	int n;//no. of processes 
