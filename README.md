@@ -1,2 +1,0 @@
-# pardeep
-ques1
